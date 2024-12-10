@@ -1,1 +1,1 @@
-# DatabaseProject_PetAdoptionSystem
+# This is our Database Systems Semester Project.
